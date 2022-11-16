@@ -1,4 +1,4 @@
-package de.alich.cameltest.controller;
+package de.alich.cameltest;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
